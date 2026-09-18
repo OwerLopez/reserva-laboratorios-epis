@@ -1,0 +1,18 @@
+{
+  "name": "reserva-laboratorios-epis",
+  "version": "0.1.0",
+  "description": "Sistema web de reserva de laboratorios universitarios - EPIS UNSA",
+  "main": "src/reservas/validador_solapamiento.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "reservas",
+    "laboratorios",
+    "unsa",
+    "epis"
+  ],
+  "author": "Lopez Arela, Ower Frank <olopeza@unsa.edu.pe>",
+  "license": "MIT"
+}
